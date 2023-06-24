@@ -1,1 +1,1 @@
-# Deep-Learning-and-Neural-Networks-Coursera
+Understanding neural networks basics & them from scratch
